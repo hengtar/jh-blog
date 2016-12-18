@@ -88,3 +88,9 @@ INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
 INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
 ERR: 无法加载模块:Index_v1
 
+[ 2016-12-18T21:13:41+08:00 ] 127.0.0.1 /index.php/index_v1.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:Index_v1
+
