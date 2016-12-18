@@ -90,9 +90,8 @@
                                                 <li>增加点赞功能</li>
                                                 <li>增加文章阅读+1功能</li>
                                                 <li>增加百度UI功能</li>
-                                                <li>其余正在完善 4</li>
-                                                <li>其余正在完善 5</li>
-                                                <li>其余正在完善 6</li>
+                                                <li>其余正在完善 </li>
+                                                
                                                 <li>欢迎支持 J.H & Blog ，谢谢大家</li>
                                             </ol>
                                         </div>
@@ -103,7 +102,47 @@
                 </div>
             </div>
         </div>
+          <div class="col-sm-4">
+                <div class="ibox float-e-margins">
+                    <div class="ibox-title">
+                        <h5 >系统信息</h5>
+                    </div>
+                    <div class="ibox-content no-padding">
+                        <div class="panel-body">
+                            <div class="panel-group" id="version">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                       <h5 class="panel-title">系统</h5>
+                                    </div>
+                                    <div id="v40" class="panel-collapse collapse in">
+                                        <div class="panel-body">
+                                            <ul>
+                                                <li>作者开发 J.H & Blog 博客系统</li>
+                                                <li>增加前台注册、登录等功能</li>
+                                                <li>增加标签等功能</li>
+                                                <li>增加后台</li>
+                                                <li>增加后台RBAC权限管理系统</li>
+                                                <li>增加TinkPHP 分页样式</li>
+                                                <li>增加验证码功能</li>
+                                                <li>增加邮箱注册功能</li>
+                                                <li>增加微信找回密码功能</li>
+                                                <li>增加点赞功能</li>
+                                                <li>增加文章阅读+1功能</li>
+                                                <li>增加百度UI功能</li>
+                                                <li>其余正在完善 </li>
+                                                
+                                                <li>欢迎支持 J.H & Blog ，谢谢大家</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+
     </script>
     <script src="/Public/Admin/js/jquery.min.js?v=2.1.4"></script>
     <script src="/Public/Admin/js/bootstrap.min.js?v=3.3.5"></script>
