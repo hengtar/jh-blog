@@ -15,7 +15,7 @@
     <meta http-equiv="refresh" content="0;ie.html" />
     <![endif]-->
 
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="/Public/1.ico">
     <link href="/Public/Admin/css/bootstrap.min.css?v=3.3.5" rel="stylesheet">
     <link href="/Public/Admin/css/font-awesome.min.css?v=4.4.0" rel="stylesheet">
     <link href="/Public/Admin/css/animate.min.css" rel="stylesheet">
