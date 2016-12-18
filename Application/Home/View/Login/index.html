@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<include file="Public:header" />
+<script type="text/javascript">
+	$(function(){
+		$('#reg').click(function(){
+			window.location.href="{:U('Reg/index')}";
+		});
+	});
+</script>
+		<div class="content-body">
+			<div class="container">
+				<div class="row">
+					<main class="col-md-12">
+						<h1 class="page-title">登 录 J.H</h1>
+						<article class="post">
+							<div class="entry-content clearfix">
+								<form action="#" method="post" class="contact-form">
+									<div class="row">
+										<div class="col-md-6 col-md-offset-3">
+											<input type="text" name="name" placeholder="UserName (账号)" required>
+											<input type="password" name="email" placeholder="PassWord (密码)" required>
+											<div>
+												<input class="btn btn-default" type="button" value="登 录">
+											</div>
+											<div>
+												<input class="btn btn-default" type="button" value="注 册" id="reg" >
+											</div>
+										</div>
+									</div>	<!-- row -->
+								</form>
+							</div>
+						</article>
+					</main>
+				</div>
+			</div>
+		</div>
+		<include file="Public:footer" />
+	</body>
+</html>

@@ -1,0 +1,326 @@
+[ 2016-12-14T14:30:25+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/jquery.min.js?v=2.1.4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:25+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/bootstrap.min.js?v=3.3.5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:25+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/plugins/metisMenu/jquery.metisMenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:25+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/plugins/slimscroll/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:25+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/plugins/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:25+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/hplus.min.js?v=4.0.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:25+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/contabs.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:25+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/plugins/pace/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:26+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/css/bootstrap.min.css?v=3.3.5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:26+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/css/style.min.css?v=4.0.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:26+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/css/animate.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:26+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/css/font-awesome.min.css?v=4.4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:30:26+08:00 ] 127.0.0.1 /index.php/img/profile_small.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:30:26+08:00 ] 127.0.0.1 /index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/css/font-awesome.min.css?v=4.4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/img/profile_small.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:Img
+
+��模块:__PUBULIC__
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/jquery.min.js?v=2.1.4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/css/bootstrap.min.css?v=3.3.5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/bootstrap.min.js?v=3.3.5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/plugins/slimscroll/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/plugins/metisMenu/jquery.metisMenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/plugins/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/hplus.min.js?v=4.0.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/contabs.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:03+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/js/plugins/pace/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:04+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/css/style.min.css?v=4.0.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:07+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/css/bootstrap.min.css?v=3.3.5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:09+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/css/bootstrap.min.css?v=3.3.5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:51+08:00 ] 127.0.0.1 /index.php/__PUBULIC__/Admin/css/bootstrap.min.css?v=3.3.5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:__PUBULIC__
+
+[ 2016-12-14T14:31:53+08:00 ] 127.0.0.1 /index.php/img/profile_small.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/css/bootstrap.min.css?v=3.3.5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Css
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/css/font-awesome.min.css?v=4.4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+ERR: 无法加载�[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/img/profile_small.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/js/jquery.min.js?v=2.1.4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/js/bootstrap.min.js?v=3.3.5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:Js
+
+模块:Js
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/js/plugins/slimscroll/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/js/plugins/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/js/hplus.min.js?v=4.0.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/js/contabs.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/js/plugins/pace/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/img/a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:32:17+08:00 ] 127.0.0.1 /index.php/img/a8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:32:18+08:00 ] 127.0.0.1 /index.php/css/style.min.css?v=4.0.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Css
+
+[ 2016-12-14T14:33:01+08:00 ] 127.0.0.1 /index.php/img/profile_small.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:33:01+08:00 ] 127.0.0.1 /index.php/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:33:01+08:00 ] 127.0.0.1 /index.php/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004551s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:33:01+08:00 ] 127.0.0.1 /index.php/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:33:01+08:00 ] 127.0.0.1 /index.php/img/a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:33:02+08:00 ] 127.0.0.1 /index.php/img/a8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Img
+
+[ 2016-12-14T14:33:46+08:00 ] 127.0.0.1 /index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Favicon
+

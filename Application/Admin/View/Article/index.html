@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html>
+<include file="Public:header" />
+		<div class="content-body">
+			<div class="container">
+				<div class="row">
+					<main class="col-md-8">
+						<article class="post post-1">
+							<header class="entry-header">
+								<h1 class="entry-title">
+									<a href="{:U('Article/index')}">Shadowsocks-libev一键安装脚本（CentOS6,7）</a>
+								</h1>
+								<div class="entry-meta">
+									<span class="post-date"><a href="#">Linux</a></span>
+									<span class="post-date"><a href="#">日期 2015.11.25 </a></span>
+									<span class="comments-link"><a href="#">阅读(15)</a></span> 
+									<span class="comments-link"><a href="#">评论(15)</a></span> 
+									<span class="comments-link"><a href="#">赞(15)</a></span> 
+								</div>
+							</header>
+							<div class="entry-content clearfix">
+								<p>shadowsocks-libev相比《Shadowsocks-python一键安装脚本（CentOS6,7、Ubuntu、Debian）》，该版本的特点是内存占用小（600k左右），低 CPU 消耗，甚至可以安装在基于OpenWRT的路由器上。
+
+使用方法
+使用root用户登录，运行以下命令：
+
+wget http://mirrors.linuxeye.com/oneinstack.tar.gz
+tar xzf oneinstack.tar.gz
+cd oneinstack
+./shadowsocks.sh install
+如下截图：
+
+
+添加多用户
+./shadowsocks.sh adduser
+Sorry, we have no plan to support multi port configuration. Actually you can use multiple instances instead. For example:
+ss-server -c /etc/shadowsocks/config1.json -f /var/run/shadowsocks-server/pid1
+ss-server -c /etc/shadowsocks/config2.json -f /var/run/shadowsocks-server/pid2
+ss-server -c /etc/shadowsocks/config3.json -f /var/run/shadowsocks-server/pid3
+注意：Shadowsocks libev版不能通过修改配置文件来多端口（只能开启多进程），如果你需要多端口请安装Python版；
+
+卸载
+使用 root 用户登录，运行以下命令：
+
+./shadowsocks.sh uninstall
+参考：https://teddysun.com/357.html</p>
+							</div>
+						</article>
+					</main>
+<include file="Public:left" />					
+<include file="Public:footer" />		
+
+	</body>
+</html>
