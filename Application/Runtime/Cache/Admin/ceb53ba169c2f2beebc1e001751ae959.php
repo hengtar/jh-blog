@@ -52,11 +52,11 @@
 
                     </div>
                     <div class="ibox-content">
-                        <p><i class="fa fa-send-o"></i> 博客：<a href="http://www.zi-han.net" target="_blank">http://www.zi-han.net</a>
+                        <p><i class="fa fa-send-o"></i> 博客：<a href="http://jh12.cn" target="_blank">http://jh12.cn</a>
                         </p>
                         <p><i class="fa fa-qq"></i> Q Q  ：<a href="http://wpa.qq.com/msgrd?v=3&uin=852952656&site=qq&menu=yes" target="_blank">852952656</a>
                         </p>
-                        <p><i class="fa fa-weixin"></i> 微信：<a href="javascript:;">qishinibuzhidao520（张某某）</a>
+                        <p><i class="fa fa-weixin"></i> 微信：<a href="javascript:;">we-chat521（A | 张某某）</a>
                         </p>
                     </div>
                 </div>
@@ -117,21 +117,15 @@
                                     <div id="v40" class="panel-collapse collapse in">
                                         <div class="panel-body">
                                             <ul>
-                                                <li>作者开发 J.H & Blog 博客系统</li>
-                                                <li>增加前台注册、登录等功能</li>
-                                                <li>增加标签等功能</li>
-                                                <li>增加后台</li>
-                                                <li>增加后台RBAC权限管理系统</li>
-                                                <li>增加TinkPHP 分页样式</li>
-                                                <li>增加验证码功能</li>
-                                                <li>增加邮箱注册功能</li>
-                                                <li>增加微信找回密码功能</li>
-                                                <li>增加点赞功能</li>
-                                                <li>增加文章阅读+1功能</li>
-                                                <li>增加百度UI功能</li>
-                                                <li>其余正在完善 </li>
-                                                
+                                                <li>框架信息 :  <a href="http://www.thinkphp.cn/">TinkPHP 3.2.2 </a></li>
+                                                <br>
+                                                <li>当前日期 : <?php echo ($newtime); ?></li>
+                                                <br>
+                                                <li>本 机 IP :  127.0.0.1</li>
+                                                <br>
                                                 <li>欢迎支持 J.H & Blog ，谢谢大家</li>
+                                                <br>
+                                                <li>如果您喜欢我们的博客开源系统,随意金额 打赏支付宝 : <a href="https://fu.alipay.com/transfer/index.htm">852952656@qq.com</a></li>
                                             </ul>
                                         </div>
                                     </div>

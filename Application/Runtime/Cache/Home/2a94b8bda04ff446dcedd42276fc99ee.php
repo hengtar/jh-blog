@@ -61,10 +61,11 @@
 			<div class="container">
 				<div class="row">
 					<main class="col-md-8">
-						<article class="post post-1">
+
+						<?php if(is_array($data)): $i = 0; $__LIST__ = $data;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vol): $mod = ($i % 2 );++$i;?><article class="post post-1">
 							<header class="entry-header">
 								<h1 class="entry-title">
-									<a href="<?php echo U('Article/index');?>">Shadowsocks-libev一键安装脚本（CentOS6,7）</a>
+									<a href="<?php echo U('Article/index');?>"><?php echo ($vol["articletit"]); ?></a>
 								</h1>
 								<div class="entry-meta">
 									<span class="post-date"><a href="#">Linux</a></span>
@@ -75,12 +76,12 @@
 								</div>
 							</header>
 							<div class="entry-content clearfix">
-								<p>shadowsocks-libev相比《Shadowsocks-python一键安装脚本（CentOS6,7、Ubuntu、Debian）》，该版本的特点是内存占用小（600k左右），低 CPU 消耗，甚至可以安装在基于OpenWRT的路由器上。 使用方法 使用root用户登录，运行以下命令： wget http://mirrors.linuxeye.c……</p>
+								<p><?php echo ($vol["article"]); ?></p>
 								<div class="read-more cl-effect-14">
-									<a href="<?php echo U('Article/index');?>" class="more-link"> Read More <span class="meta-nav"→</span></a>
+									<a href="<?php echo U('Article/index');?>" class="more-link"> Read More <span class="meta-nav"></span></a>
 								</div>
 							</div>
-						</article>
+						</article><?php endforeach; endif; else: echo "" ;endif; ?>
 					</main>
 <!DOCTYPE html>
 <html>

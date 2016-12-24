@@ -31,7 +31,7 @@
                  
                     <div class="ibox-content">
 
-                        <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper form-inline" role="grid"><div class="row"><div class="col-sm-6"><div class="dataTables_length" id="DataTables_Table_0_length"><label>查找文章 ：<input type="search" class="form-control input-sm" aria-controls="DataTables_Table_0"> &nbsp;&nbsp;&nbsp;<button>dd </button>
+                        <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper form-inline" role="grid"><div class="row"><div class="col-sm-6"><div class="dataTables_length" id="DataTables_Table_0_length"><label>查找文章 ：<input type="search" class="form-control input-sm" aria-controls="DataTables_Table_0"> &nbsp;&nbsp;&nbsp;<button class="btn btn-sm btn-default"> 查 询 </button>
                             <thead></label></div></div></div><table class="table table-striped table-bordered table-hover dataTables-example dataTable" id="DataTables_Table_0" aria-describedby="DataTables_Table_0_info">
                                 <tr role="row"><th >文章ID</th>
                                 <th>文章标题</th>

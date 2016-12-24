@@ -49,7 +49,7 @@
                                 <li><a class="J_menuItem" href="mailbox.html">信箱</a>
                                 </li>
                                 <li class="divider"></li>
-                                <li><a href="login.html">清除缓存</a>
+                                <li><a href="{:U('Index/delRun')}">清除缓存</a>
                                 </li>
                             </ul>
                         </div>
@@ -110,23 +110,23 @@
                     <li>
                         <a href="#"><i class="fa fa-cutlery"></i> <span class="nav-label"> &nbsp;评论</span><span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
-                            <li><a class="J_menuItem" href="form_builder.html">评论申请</a>
+                            <li><a class="J_menuItem" href="{:U('Comment/comment')}">评论申请</a>
                             </li>
-                            <li><a class="J_menuItem" href="form_builder.html">评论</a>
+                            <li><a class="J_menuItem" href="{:U('Comment/comList')}">评论</a>
                             </li>
                         </ul>
                     </li>
                      <li>
                         <a href="#"><i class="fa fa fa-bar-chart-o"></i> <span class="nav-label">数据</span><span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
-                            <li><a class="J_menuItem" href="form_builder.html">还原数据</a>
+                            <li><a class="J_menuItem" href="{:U('Data/dataList')}">还原数据</a>
                             </li>
                             <li><a class="J_menuItem" href="form_builder.html">备份数据</a>
                             </li>
                         </ul>
                     </li>
                        <li>
-                        <a class="J_menuItem" href="css_animation.html"><i class="fa fa-magic"></i> <span class="nav-label">黑名单</span></a>
+                        <a class="J_menuItem" href="{:U('Black/index')}"><i class="fa fa-magic"></i> <span class="nav-label">黑名单</span></a>
                     </li>
                 </ul>
             </div>
@@ -145,8 +145,8 @@
                     </div>
                     <ul class="nav navbar-top-links navbar-right">
                         <li class="dropdown hidden-xs">
-                            <a href="{:U('Index/logout')}">
-                                <i class="fa fa-tasks"></i> 退出 J . H 
+                            <a href="{:U('Index/delRun')}">
+                                <i class="fa fa-tasks"></i> 清除缓存
                             </a>
                         </li>
                     </ul>
